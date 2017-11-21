@@ -1,3 +1,7 @@
+#Nachos System
+Nachos is a simplified computer system for teaching purpose. 
+I add many functions to it including process schedualing, process synchronization, virtual memory, file system, system calls and communication.
+# Original Readme
 This README file describes the Nachos release.  Comments, questions,
 and bug reports are always welcome, and can be directed to 
 nachos@cs.berkeley.edu (for now, an alias to just me, Tom Anderson), or 
