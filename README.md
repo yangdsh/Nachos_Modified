@@ -1,4 +1,4 @@
-#Nachos System
+# Nachos System
 Nachos is a simplified computer system for teaching purpose. 
 I add many functions to it including process schedualing, process synchronization, virtual memory, file system, system calls and communication.
 # Original Readme
